@@ -13,7 +13,6 @@ const preco = 100;
 const formaDePagamento = 2;
 const parcela = [3,4,5,6,7,8,9];
 
-
 const valorDebitoAvista = 10;
 const valorPixAvista = 15;
 const duasX = 0;
