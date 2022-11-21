@@ -10,7 +10,7 @@
     - Entre 25 e 30 Acima do peso;
     - Entre 30 e 40 Obeso;
     - Acima de 40 Obsesidade Grave;
-*/
+.*/
 
 
 const peso = 140;
