@@ -36,5 +36,3 @@ else if (imc >=30 && imc <= 40){
 else {console.log('Obesidade Grave')
 }
 
-
-Reginaldo 
