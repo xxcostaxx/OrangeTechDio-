@@ -35,9 +35,3 @@ else if (imc >=30 && imc <= 40){
 }
 else {console.log('Obesidade Grave')
 }
-sdas
-asda
-asda
-
-asdas
-asdas\
