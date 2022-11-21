@@ -37,3 +37,4 @@ else if(formaDePagamento === 3){
 if (formaDePagamento==2){
     console.log(preco)
 }
+teste Note
