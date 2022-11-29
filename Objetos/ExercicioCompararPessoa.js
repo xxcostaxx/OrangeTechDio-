@@ -27,4 +27,4 @@ const lucas = new SobreVc ("Lucas", 14);
 reginaldo.descrever();
 lucas.descrever();
 
-console.log(reginaldo);
+console.log(reginaldo)
