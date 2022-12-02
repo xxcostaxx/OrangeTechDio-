@@ -1,4 +1,4 @@
-const numero = 5 ; 
+const numero = 1 ; 
 const  numeroPar = (numero  % 5) === 0;
 
 

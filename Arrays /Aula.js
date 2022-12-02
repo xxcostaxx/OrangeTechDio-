@@ -5,7 +5,6 @@
 // .length mostra o tamanho da lista Ex. console.log(notas.length)
 
 notas = [];
-
 notas.push(5);
 notas.push(7);
 notas.push(8);
@@ -23,3 +22,4 @@ for (let i = 0; i < notas.length; i++) {
 console.log("Sua media é " + soma / notas.length)
 console.log("Soma das Suas notas é " + soma);
 
+console.log(notas)
