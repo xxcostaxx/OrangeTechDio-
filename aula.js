@@ -1,15 +1,7 @@
-// varialvel const nao muda 
-// let muda 
-
-let varialvel = 10;
-varialvel = 20;
-console.log(varialvel);
 
 
+let myStr = "This is the first sentence." 
+myStr += " This is the second sentence."
 
-
-
-
-
-
+console.log(myStr)
 
